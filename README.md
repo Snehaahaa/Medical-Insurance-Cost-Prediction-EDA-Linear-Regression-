@@ -1,4 +1,4 @@
-# Medical-Insurance-Cost-Prediction-EDA-Linear-Regression-
+# Medical-Insurance-Cost-Prediction
 Medical insurance cost prediction using Linear Regression with EDA and data preprocessing in Python.
 # 🏥 Medical Insurance Cost Prediction using Machine Learning
 
