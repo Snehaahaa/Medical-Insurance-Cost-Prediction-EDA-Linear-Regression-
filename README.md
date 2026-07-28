@@ -109,7 +109,9 @@ Sneha_G_ML_Project.ipynb
 ```
 
 
+## 📄 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
